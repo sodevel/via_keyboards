@@ -114,7 +114,7 @@
       "label": "Lighting",
       "content": [
         {
-          "label": "Backlight",
+          "label": "RGB Backlight",
           "content": [
             {
               "label": "Brightness",
